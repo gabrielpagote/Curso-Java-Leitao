@@ -1,0 +1,10 @@
+package pacote;
+
+import javax.swing.*;
+
+public class classe {
+ public static void main(String[] args) {
+	JFrame jframe = new JFrame();
+	
+}
+}

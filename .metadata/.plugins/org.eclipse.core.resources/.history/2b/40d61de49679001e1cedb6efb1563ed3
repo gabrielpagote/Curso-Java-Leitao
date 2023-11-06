@@ -1,0 +1,22 @@
+package pacote;
+
+import javax.swing.*;
+
+public class classe {
+ public static void main(String[] args) {
+	JFrame jframe = new JFrame();
+	String nome = 	JOptionPane.showInputDialog(jframe, "Quem é o amor da sua vida?");
+	String getMessageNew;
+	
+	if(getMessage == "Juliana Moura Mendonça") {
+		JOptionPane.showMessageDialog(jframe, "Muito bem! Essa mesmo <3");
+	}
+	else {
+		while ( getMessageNew != "Juliana Moura Mendonça") {
+			getMessageNew = JOptionPane.showInputDialog(jframe, "Não tem medo do perigo não? Tente novamente.");
+	}
+	
+	
+}
+}
+}

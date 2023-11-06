@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+C:\Users\gpoli\Videos\Curso de Java - Leitao\Pratica\.metadata\.plugins\org.eclipse.jdt.core
+3732647088.index
+3654592591.index
+3413270776.index
+1865797976.index
+1133288397.index

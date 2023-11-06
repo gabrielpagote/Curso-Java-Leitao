@@ -1,0 +1,9 @@
+package fundamentos;
+
+public class Temperatura {
+
+	public static void main(String[] args) {
+		
+		// relação fahrenreit p/ celsius = (ºF - 32) x 5/9 = ºC
+	}
+}

@@ -1,0 +1,16 @@
+package pacote;
+
+import javax.swing.*;
+
+public class classe {
+ public static void main(String[] args) {
+	JFrame jframe = new JFrame();
+	String getMessage = 	JOptionPane.showInputDialog(jframe, "Quem é o amor da sua vida?");
+		
+	while (getMessage != "Juliana Moura Mendonça") {
+		
+	}
+	
+	
+}
+}

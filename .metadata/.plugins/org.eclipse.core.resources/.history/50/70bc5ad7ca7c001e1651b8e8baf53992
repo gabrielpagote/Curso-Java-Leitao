@@ -1,0 +1,16 @@
+package fundamentos;
+
+public class Temperatura {
+
+	public static void main(String[] args) {
+		
+		// relação fahrenheit p/ celsius = (ºF - 32) x 5/9 = ºC
+		
+		
+		double fahrenheit = 86-32;
+		final double fconversao = (5/9);
+		double celsius = (fahrenheit) * fconversao;
+		
+	
+	}
+}
